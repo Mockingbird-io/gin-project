@@ -40,6 +40,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="gin" />
       <working_directory value="$PROJECT_DIR$" />
@@ -61,7 +72,7 @@
       <workItem from="1596194226318" duration="8496000" />
       <workItem from="1597042427987" duration="141000" />
       <workItem from="1597806389757" duration="270000" />
-      <workItem from="1600049878608" duration="606000" />
+      <workItem from="1600049878608" duration="1401000" />
     </task>
     <servers />
   </component>
